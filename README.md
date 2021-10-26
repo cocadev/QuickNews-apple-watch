@@ -1,1 +1,1 @@
-# QuickNews-apple-watch
+# QuickNews-apple-watch 2
